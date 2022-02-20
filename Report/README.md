@@ -28,7 +28,7 @@ A smartwatch is a wearable computer in the shape of a watch; current smartwatche
  | HR02 | Heart beat monitoring|
   | HR03 | Blood pressure monitoring| 
  | HR04 |Temperature and humidity monitoring |
- | HRO5 | Display of time and date |
+ | HR05 | Display of time and date |
 # Low Level Requirement
  | ID | Description | Status |
  | -- | ---------------- | 
