@@ -1,5 +1,6 @@
 #                                                                              SMART WATCH 
-#INTRODUCTION:
+
+# INTRODUCTION:
 
 It is undeniable that computers are becoming smaller, quicker, more competent, cheaper, and more efficient as technology advances. Such advancements may be seen across the whole computing spectrum, from the tiniest microcontrollers to enormous supercomputers. Technology has progressed to the point that we can now fit a large amount of computer processing power into small portable devices.
 
