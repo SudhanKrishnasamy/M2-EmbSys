@@ -1,4 +1,4 @@
-                                                                            #SMART WATCH
+                                                                       # SMART WATCH
 
 # INTRODUCTION:
 
