@@ -11,7 +11,11 @@ A smartwatch is a wearable computer in the shape of a watch; current smartwatche
 # DESIGN:
 # BLOCK DIAGRAM:
 
+![SMART WATCH](https://user-images.githubusercontent.com/98818208/154841154-5b9d8542-3b15-458a-8d36-d8c8c4d63a3f.jpeg)
+
 # SWOT ANALYSIS:
+
+![SMART SWOT](https://user-images.githubusercontent.com/98818208/154841144-c75d4bc5-2154-4554-bc0d-545004cef8a1.jpg)
 
 # 4 W'S and 1 H:
 
