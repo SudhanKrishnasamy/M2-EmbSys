@@ -30,7 +30,7 @@ A smartwatch is a wearable computer in the shape of a watch; current smartwatche
  | HR04 |Temperature and humidity monitoring |
  | HR05 | Display of time and date |
 # Low Level Requirement
- | ID | Description | Status |
+ | ID | Description Status |
  | -- | ---------------- | 
  | LR01 |Sensors |
  | LR02 | LCD display |
@@ -72,17 +72,12 @@ Bluetooth is a short-range wireless technology standard that is used for exchang
 # ADVANTAGES:
 • Fitness and Health.
 
-• Locate your Phone and Key.
-
 • Play Music.
-
-• Navigation.
 
 • Make and Receive Calls.
 
 • Access Notifications.
 
-• Emergency Call and Fall Detection.
 
 # DISADVANTAGES:
 • Smart watches are pretty costly.
