@@ -21,6 +21,19 @@ A smartwatch is a wearable computer in the shape of a watch; current smartwatche
 
 
 # 4 W'S and 1 H:
+# High level requirements:
+| ID | Description | 
+ |----| ------------------ | 
+ | HR01 | Measurement of steps| 
+ | HR02 | Heart beat monitoring|
+  | HR03 | Blood pressure monitoring| 
+ | HR04 |Temperature and humidity monitoring |
+ | HRO5 | Display of time and date |
+# Low Level Requirement
+ | ID | Description | Status |
+ | -- | ---------------- | 
+ | LR01 |Sensors |
+ | LR02 | LCD display |
 
 # Who:
 The smartwatch is beneficial to those who are looking for advancement in their lifestyle.
