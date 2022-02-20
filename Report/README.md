@@ -55,17 +55,26 @@ Bluetooth is a short-range wireless technology standard that is used for exchang
 
 # ADVANTAGES:
 • Fitness and Health.
+
 • Locate your Phone and Key.
+
 • Play Music.
+
 • Navigation.
+
 • Make and Receive Calls.
+
 • Access Notifications.
+
 • Emergency Call and Fall Detection.
 
 # DISADVANTAGES:
 • Smart watches are pretty costly.
+
 • Some of the watches are not water resistant.
+
 • Touch screen is smaller compare to phone.
+
 • Battery life is short which is a concern.
 
 # CONCLUSION:
