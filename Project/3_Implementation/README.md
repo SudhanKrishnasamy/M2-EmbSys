@@ -8,3 +8,13 @@ The ultrasonic sensor is attached to the spectacles, while the main unit, which 
 
 
 # 4W's and 1H
+## WHO
+This will be beneficial to both the blind and the visually impaired.
+## WHAT
+The primary goal of this project is to lessen the reliance of blind people on others.
+## WHEN
+This will come in handy for them when they walk outside and require assistance.
+## WHERE
+This will work in any situation.This is also effective on rainy days and in the winter.
+## HOW
+The ultrasonic sensor used in this project detects opposite items and sends this information to the microcontroller, which then displays the message to the user.
