@@ -5,16 +5,30 @@ The opposing items, or humans, can be easily spotted using this project. We mere
 The ultrasonic sensor is attached to the spectacles, while the main unit, which contains the minimum system, power supply, and main switch, is contained in a box that the blind person can carry in his or her pocket. The technology developed by the University of Oxford is more practical and easier to use.
 
 # SWOT Analysis
+![project swot](https://user-images.githubusercontent.com/98818208/155714627-6feb7262-9a18-4f7c-8bc1-e173068c6cfb.jpg)
 
 
 # 4W's and 1H
-## WHO
+### WHO:
 This will be beneficial to both the blind and the visually impaired.
-## WHAT
+### WHAT:
 The primary goal of this project is to lessen the reliance of blind people on others.
-## WHEN
+### WHEN:
 This will come in handy for them when they walk outside and require assistance.
-## WHERE
+### WHERE:
 This will work in any situation.This is also effective on rainy days and in the winter.
-## HOW
+### HOW:
 The ultrasonic sensor used in this project detects opposite items and sends this information to the microcontroller, which then displays the message to the user.
+
+# Requirements
+### High Level Requirements:
+| ID | Description |
+ |----| ------------------ | 
+ | HR01 | Atmega 328p Microcontroller|
+  | HR02 | UltraSonic Sensors |
+  |HR03|SimulIde|
+### Low Level Requirements:
+ | ID | Description | 
+ | -- | ---------------- | 
+ | LR01 | Source code | 
+ | LR02 | LCD | 
