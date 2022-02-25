@@ -20,6 +20,14 @@ This will work in any situation.This is also effective on rainy days and in the 
 ### HOW:
 The ultrasonic sensor used in this project detects opposite items and sends this information to the microcontroller, which then displays the message to the user.
 
+# Features
+LCD used in this projects will give some clear informations to the users.
+
+# Components Used
+Atmega328
+HC-SR04 (Ultrasonic) sensor
+LCD display
+
 # Requirements
 ### High Level Requirements:
 | ID | Description |
