@@ -6,7 +6,8 @@ The project is creating a density-based dynamic traffic signal system, in which 
 Ultrasonic sensors are utilised to assess traffic density in this system. These sensors will always detect traffic on that route. The microcontroller is connected to all of these sensors.The controller detects and regulates the traffic system using these sensors.
 
 # SWOT Analysis
-![project swot](https://user-images.githubusercontent.com/98818208/155714627-6feb7262-9a18-4f7c-8bc1-e173068c6cfb.jpg)
+![Density swot](https://user-images.githubusercontent.com/98818208/156871631-79bc2a59-d456-4e63-b0e4-46a54c26d549.jpg)
+
 
 
 # 4W's and 1H
@@ -27,20 +28,23 @@ It uses sensors and a microcontroller to automatically control traffic signals.
 
 # Components Used
 Atmega328p 
+
 SimulIDE
+
 Virtual studio code
+
 avr-gcc
 Make
 
 # Requirements
 ### High Level Requirements:
-| ID | Description |
- |----| ------------------ | 
- | HR01 | Sensors |
-  | HR02 | Atmega328 |
-  |HR03|SimulIde|
+| ID | Description | Status |
+ |----| ------------------ | ------ |
+ | HR01 | Sensors | Implemented |
+  | HR02 | Atmega328 | Implemented |
+  |HR03|SimulIde| Implemented |
 ### Low Level Requirements:
- | ID | Description | 
- | -- | ---------------- | 
- | LR01 | Source code | 
- | LR02 | LED | 
+ | ID | Description | Status |
+ | -- | ---------------- |----| 
+ | LR01 | Source code | Implemented |
+ | LR02 | LED | Implemented |
