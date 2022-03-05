@@ -28,20 +28,23 @@ It uses sensors and a microcontroller to automatically control traffic signals.
 
 # Components Used
 Atmega328p 
+
 SimulIDE
+
 Virtual studio code
+
 avr-gcc
 Make
 
 # Requirements
 ### High Level Requirements:
-| ID | Description |
- |----| ------------------ | 
- | HR01 | Sensors |
-  | HR02 | Atmega328 |
-  |HR03|SimulIde|
+| ID | Description | Status |
+ |----| ------------------ | ------ |
+ | HR01 | Sensors | Implemented |
+  | HR02 | Atmega328 | Implemented |
+  |HR03|SimulIde| Implemented |
 ### Low Level Requirements:
- | ID | Description | 
- | -- | ---------------- | 
- | LR01 | Source code | 
- | LR02 | LED | 
+ | ID | Description | Status |
+ | -- | ---------------- |----| 
+ | LR01 | Source code | Implemented |
+ | LR02 | LED | Implemented |
