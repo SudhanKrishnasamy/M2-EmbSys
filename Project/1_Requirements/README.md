@@ -11,17 +11,17 @@ Ultrasonic sensors are utilised to assess traffic density in this system. These 
 
 
 # 4W's and 1H
-### WHY:
+### WHY
 It is not necessary to wait for the other signal if there will be no traffic.
 That signal will be skipped by the system, and it will move on to the next one.
-### WHAT:
+### WHAT
 This project will show you how to use density to control traffic.
-### WHEN:
+### WHEN
 When there is a lot of traffic.
 Areas with a large population.
-### WHERE:
+### WHERE
 To control traffic automatically and effectively in high-traffic regions.
-### HOW:
+### HOW
 It uses sensors and a microcontroller to automatically control traffic signals.
 
 
@@ -37,13 +37,13 @@ avr-gcc
 Make
 
 # Requirements
-### High Level Requirements:
+### High Level Requirements
 | ID | Description | Status |
  |----| ------------------ | ------ |
  | HR01 | Sensors | Implemented |
   | HR02 | Atmega328 | Implemented |
   |HR03|SimulIde| Implemented |
-### Low Level Requirements:
+### Low Level Requirements
  | ID | Description | Status |
  | -- | ---------------- |----| 
  | LR01 | Source code | Implemented |
