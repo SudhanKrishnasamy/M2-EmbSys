@@ -26,15 +26,28 @@ It uses sensors and a microcontroller to automatically control traffic signals.
 
 
 
+
 # Components Used
-Atmega328p 
+## Atmega328p:
+The Atmega328P is the 8-bit microprocessor that controls and interacts with sensors, motors, relays, and other electronic devices on every Arduino Uno board. Atmel's megaAVR series includes the ATmega328, a single-chip microcontroller (later Microchip Technology acquired Atmel in 2016).
 
-SimulIDE
+## Ultrasonic sensor:
+An ultrasonic sensor is a device that uses ultrasonic sound waves to determine the distance to an item. A transducer is used in an ultrasonic sensor to emit and receive ultrasonic pulses that relay information about the proximity of an item.
 
-Virtual studio code
+## LED:
+When current passes through a light-emitting diode (LED), it produces light. Electrons recombine with electron holes in the semiconductor, producing energy in the form of photons.
 
-avr-gcc
-Make
+## SimulIDE:
+SimulIDE is a real-time electronic circuit simulator. It is a simple tool intended for advance learning, and it lets you enjoy the experience as well. SimulIDE is designed to be fast and easy to use, and it works wonders for simple electronics.
+
+## Virtual studio code:
+Microsoft's Visual Studio Code is a source-code editor for Windows, Linux, and macOS. Debugging, syntax highlighting, intelligent code completion, snippets, code refactoring, and embedded Git are among the features.
+
+## avr-gcc:
+AVR-GCC is a C language high-level code compiler that generates a binary source that can be uploaded to an AVR microcontroller. As a result, AVR-GCC can be thought of as a 'C' cross compiler for AVR code.
+
+## Make:
+Make is a tool which controls the generation of executables and other non-source files of a program from the program's source files. Make gets its knowledge of how to build your program from a file called the makefile, which lists each of the non-source files and how to compute it from other files. When you write a program, you should write a makefile for it, so that it is possible to use Make to build and install the program.
 
 ## BLOCK DIAGRAM
 ![BLOCK](https://user-images.githubusercontent.com/98818208/156925523-c4763d41-e667-4566-a78d-fdea3d8a85bd.jpg)
