@@ -16,8 +16,8 @@
  */
 #define F_CPU 16000000UL 	/**< Clock Frequency of MCU is 16 MHz */
 
-#define LED_PORT (PORTB)    /**< LED Port Number */
-#define LED_PIN  (PORTB1)   /**< LED Pin number  */
+#define LED_PORT (PORTB)   
+#define LED_PIN  (PORTB1)  
 
 #include <avr/io.h>
 

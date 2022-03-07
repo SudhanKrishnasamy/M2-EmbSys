@@ -3,8 +3,8 @@ PROJ_NAME = output
 BUILD_DIR = Build
 
 # All Source code files
-SRC = project_main.c\
-src/adc.c
+SRC = main.c\
+src/define.c
 
 # All header file paths
 INC = -I inc
